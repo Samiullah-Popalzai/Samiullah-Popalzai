@@ -1,8 +1,6 @@
-# 👋 Hi, Welcome to my GitHub profile! 
+  Hi, Welcome to my GitHub profile! 
 
-I am a Software Engineer & UI/UX Designer specializing in Mobile App, Database, and Website Development.
-
-I am passionate about creating efficient, scalable, and visually appealing applications, and continuously exploring new technologies to improve performance and user experience.
+Software Engineer with experience across Python, Java, JavaScript, PHP, C#, Dart, and Kotlin, building mobile apps and web platforms. Skilled in delivering fast, reliable, and secure solutions, now focusing on full-time freelancing to help businesses create scalable, user-friendly technology. Passionate about solving complex problems and driving impactful software projects from concept to completion.
 
 Email samipopalzai2018@gmail.com    
 WhatsApp +93 728 312 417
