@@ -34,7 +34,7 @@ WP-CLI · Composer · PHPCS (WordPress standards) · PHPUnit · Docker
 
 ## Contact
 
-- **Toptal:** [your Toptal profile link](toptal.com/developers/resume/samiullah-popalzai)
+- **Toptal:** [your Toptal profile link](toptal.com/developers/resume/samiullah-popalzai/)
 - **LinkedIn:** [linkedin.com/in/samiullah-popalzai](https://www.linkedin.com/in/samiullah-popalzai/)
 - **Email:** samipopalzai2018@gmail.com
 - **WhatsApp:** +93 728 312 417
